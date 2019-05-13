@@ -14,3 +14,7 @@
 - Untuk tutorial [klik disini](https://github.com/haunt07/AE_2019_mikrokontroler/tree/master/Arduino/Tutorial)
 - Untuk datasheet [klik disini](https://github.com/haunt07/AE_2019_mikrokontroler/tree/master/Arduino/Datasheet)
 - Untuk library [klik disini](https://github.com/haunt07/AE_2019_mikrokontroler/tree/master/Arduino/Library)
+
+## References
+- circuito.io (untuk link [klik disini](https://www.circuito.io/))
+- easyeda.com (untuk link [klik disini](https://easyeda.com/))
